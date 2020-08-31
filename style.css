@@ -1,0 +1,76 @@
+body
+{
+  background-color: #b6dbdd;
+  text-align: center;
+
+}
+.ul
+{
+  text-align: left;
+}
+#title
+{
+  font-family: 'Barlow Condensed', sans-serif;
+}
+.guitar
+{
+  padding-top: 40px;
+  transform: rotate(25deg);
+}
+.stock
+{
+  text-align: left;
+}
+.tab1
+{
+  text-align: center;
+}
+.s{
+  padding: 10%;
+}
+.p{
+  background-color:  #2d5456;
+}
+ .p h5
+{
+  color:#b66720;
+}
+.p p
+{
+color:  #c8af32 ;
+}
+.s{
+  background-color:  #81787c;
+}
+.free{
+  color:   #30a302;
+}
+.stock{
+  color: #b2192e;
+}
+footer p
+{
+  font-size: 15px;
+}
+
+footer
+{
+  background-color:  #499b85;
+  text-align: center;
+
+}
+h4
+{
+  font-family: 'Special Elite', cursive;
+}
+h3
+{
+  font-family: 'Special Elite', cursive;
+}
+@media (max-width:800px){
+  .guitar
+  {
+    transform: rotate(0deg);
+  }
+
+}
